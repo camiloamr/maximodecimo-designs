@@ -280,5 +280,29 @@
     "seen": 1793738476.4778748,
     "ast_hash": "e9842b2ad1807e009ca5f91c84d2ca10",
     "semantic_hash": ""
+  },
+  "sources/d_tree_farm_poster.py": {
+    "mtime": 1793813719.489223,
+    "seen": 1793813724.3930292,
+    "ast_hash": "9badb4cb634bd311cc3f3cc4fc4fba7f",
+    "semantic_hash": ""
+  },
+  "sources/d_under_this_roof_ornament.py": {
+    "mtime": 1793813719.4921858,
+    "seen": 1793813724.393032,
+    "ast_hash": "ca3e3c48e5f7f4bad3613c69abfc9a1d",
+    "semantic_hash": ""
+  },
+  "designs/2026-11/tree-farm-poster.png": {
+    "mtime": 1793813719.4837475,
+    "seen": 1793813724.3930626,
+    "ast_hash": "e52cba11c1a7c72e39faa5ced2917a88",
+    "semantic_hash": ""
+  },
+  "designs/2026-11/under-this-roof-ornament.png": {
+    "mtime": 1793813719.486016,
+    "seen": 1793813724.3930662,
+    "ast_hash": "ba23369505beb5cceb5bc08caeb2999a",
+    "semantic_hash": ""
   }
 }
