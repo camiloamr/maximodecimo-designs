@@ -304,5 +304,23 @@
     "seen": 1793813724.3930662,
     "ast_hash": "ba23369505beb5cceb5bc08caeb2999a",
     "semantic_hash": ""
+  },
+  "sources/d_snow_zoomies_sweatshirt.py": {
+    "mtime": 1793838799.2531931,
+    "seen": 1793838804.4772637,
+    "ast_hash": "20cbea8661322170c0de26f4fb5a0e5c",
+    "semantic_hash": ""
+  },
+  "designs/2026-11/snow-zoomies-sweatshirt-light.png": {
+    "mtime": 1793838799.2513993,
+    "seen": 1793838804.477294,
+    "ast_hash": "1b563a155b6e16aa0394b7981ebc84ee",
+    "semantic_hash": ""
+  },
+  "designs/2026-11/snow-zoomies-sweatshirt.png": {
+    "mtime": 1793838799.2512016,
+    "seen": 1793838804.4772959,
+    "ast_hash": "de506d44db2f982a660a89a71373d2b0",
+    "semantic_hash": ""
   }
 }
