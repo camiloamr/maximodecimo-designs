@@ -1,374 +1,398 @@
 {
   "pins/2026-11/pins.json": {
-    "mtime": 1793906985.0075543,
-    "seen": 1793907069.641162,
+    "mtime": 1793906986.66058,
+    "seen": 1794270884.490272,
     "ast_hash": "9b547943977292e88780a1b093f5332f",
     "semantic_hash": ""
   },
   "sources/d_cookie_mug.py": {
-    "mtime": 1793906985.0115542,
-    "seen": 1793907069.6411684,
+    "mtime": 1793906986.6626601,
+    "seen": 1794270884.4902854,
     "ast_hash": "d230e3f1fef004e1e425eb1132fdf61a",
     "semantic_hash": ""
   },
   "sources/d_diya.py": {
-    "mtime": 1793906985.0155268,
-    "seen": 1793907069.6411712,
+    "mtime": 1793906986.667773,
+    "seen": 1794270884.4902885,
     "ast_hash": "f35a1f0639ecc9d0cf63f2a17285f54c",
     "semantic_hash": ""
   },
   "sources/d_engineers.py": {
-    "mtime": 1793906985.0155268,
-    "seen": 1793907069.6411726,
+    "mtime": 1793906986.667773,
+    "seen": 1794270884.4902902,
     "ast_hash": "96d8e003481700c7b30b93ab168c7546",
     "semantic_hash": ""
   },
   "sources/d_fox_stocking.py": {
-    "mtime": 1793906985.0155268,
-    "seen": 1793907069.6411743,
+    "mtime": 1793906986.667773,
+    "seen": 1794270884.4902923,
     "ast_hash": "2a9ae314a07733103162c56937b0a58d",
     "semantic_hash": ""
   },
   "sources/d_mtbc_v1.py": {
-    "mtime": 1793906985.0155268,
-    "seen": 1793907069.6411755,
+    "mtime": 1793906986.667773,
+    "seen": 1794270884.4902947,
     "ast_hash": "2d4a8e145a14fb97d4bb63adb9d25f7b",
     "semantic_hash": ""
   },
   "sources/d_mug.py": {
-    "mtime": 1793906985.0155268,
-    "seen": 1793907069.641177,
+    "mtime": 1793906986.667773,
+    "seen": 1794270884.4902966,
     "ast_hash": "ed861c04ccb7a9e61e9fc4ab3a05d7bd",
     "semantic_hash": ""
   },
   "sources/d_ornament.py": {
-    "mtime": 1793906985.0155268,
-    "seen": 1793907069.6411808,
+    "mtime": 1793906986.667773,
+    "seen": 1794270884.4903018,
     "ast_hash": "5c151b56afecd7953e544f6c132dc5a9",
     "semantic_hash": ""
   },
   "sources/d_ornament_xmas.py": {
-    "mtime": 1793906985.0155268,
-    "seen": 1793907069.641182,
+    "mtime": 1793906986.667773,
+    "seen": 1794270884.4903035,
     "ast_hash": "9ff7549c4b39e48e6b4e8b6eb8274850",
     "semantic_hash": ""
   },
   "sources/d_pillow_santa.py": {
-    "mtime": 1793906985.0155268,
-    "seen": 1793907069.641183,
+    "mtime": 1793906986.667773,
+    "seen": 1794270884.4903047,
     "ast_hash": "b09921b07556f75cfd6568cc6105a227",
     "semantic_hash": ""
   },
   "sources/d_poster.py": {
-    "mtime": 1793906985.0155268,
-    "seen": 1793907069.6411843,
+    "mtime": 1793906986.667773,
+    "seen": 1794270884.4903061,
     "ast_hash": "c3841aca0e4748864c967459d9061216",
     "semantic_hash": ""
   },
   "sources/d_snowman.py": {
-    "mtime": 1793906985.0155268,
-    "seen": 1793907069.641188,
+    "mtime": 1793906986.667773,
+    "seen": 1794270884.490313,
     "ast_hash": "665cc27c0622ee8ba8dab1b96bfa0053",
     "semantic_hash": ""
   },
   "sources/d_sticker.py": {
-    "mtime": 1793906985.0155268,
-    "seen": 1793907069.641189,
+    "mtime": 1793906986.667773,
+    "seen": 1794270884.4903142,
     "ast_hash": "19d890c8c8e943c0b26ae798ea7fc59f",
     "semantic_hash": ""
   },
   "sources/lib.py": {
-    "mtime": 1793906985.0155268,
-    "seen": 1793907069.6411934,
+    "mtime": 1793906986.667773,
+    "seen": 1794270884.4903207,
     "ast_hash": "6c0ecbe69e25cb4eb44edf99cf44cd5b",
     "semantic_hash": ""
   },
   "sources/light_variants.py": {
-    "mtime": 1793906985.0155268,
-    "seen": 1793907069.6411948,
+    "mtime": 1793906986.667773,
+    "seen": 1794270884.4903219,
     "ast_hash": "be03e5aebe48b25bfa0d8bd737348a22",
     "semantic_hash": ""
   },
   "sources/mockups.py": {
-    "mtime": 1793906985.0155268,
-    "seen": 1793907069.6411958,
+    "mtime": 1793906986.667773,
+    "seen": 1794270884.4903235,
     "ast_hash": "500b2e04528127018318cf68936e1016",
     "semantic_hash": ""
   },
   "README.md": {
-    "mtime": 1793906984.7604594,
-    "seen": 1793907069.6411965,
+    "mtime": 1793906986.5156484,
+    "seen": 1794270884.4903245,
     "ast_hash": "de0985887b464acf05f01dace780e27b",
     "semantic_hash": ""
   },
   "designs/2026-11/christmas-2026-ornament-v3.png": {
-    "mtime": 1793906984.7617815,
-    "seen": 1793907069.641198,
+    "mtime": 1793906986.516483,
+    "seen": 1794270884.4903274,
     "ast_hash": "edbf625bc0143b9d363d5f9e24fb708c",
     "semantic_hash": ""
   },
   "designs/2026-11/cookie-quality-inspector-mug.png": {
-    "mtime": 1793906984.7658048,
-    "seen": 1793907069.6411989,
+    "mtime": 1793906986.5180733,
+    "seen": 1794270884.4903286,
     "ast_hash": "00c83de7bf255730f3c1250186591fb9",
     "semantic_hash": ""
   },
   "designs/2026-11/feliz-navidad-santa-pillow.png": {
-    "mtime": 1793906984.7715542,
-    "seen": 1793907069.6411998,
+    "mtime": 1793906986.5186603,
+    "seen": 1794270884.4903297,
     "ast_hash": "b689e8f644d4fa5a61c17e79bae1f1a6",
     "semantic_hash": ""
   },
   "designs/2026-11/light/mean-time-between-coffees-light.png": {
-    "mtime": 1793906984.7715542,
-    "seen": 1793907069.6412008,
+    "mtime": 1793906986.5186603,
+    "seen": 1794270884.490331,
     "ast_hash": "7fdc521035ea045aa2d4644341a02816",
     "semantic_hash": ""
   },
   "designs/2026-11/light/saw-that-failure-coming-light.png": {
-    "mtime": 1793906984.7785778,
-    "seen": 1793907069.641202,
+    "mtime": 1793906986.5249674,
+    "seen": 1794270884.4903324,
     "ast_hash": "9351874d4c06d8c9cd48f8315630c5b4",
     "semantic_hash": ""
   },
   "designs/2026-11/light/snowman-building-committee-light.png": {
-    "mtime": 1793906984.7875543,
-    "seen": 1793907069.641203,
+    "mtime": 1793906986.5266602,
+    "seen": 1794270884.4903343,
     "ast_hash": "7369a071f5a0238a71ed36ff5627a573",
     "semantic_hash": ""
   },
   "designs/2026-11/marshmallow-weather-blanket.png": {
-    "mtime": 1793906984.8715541,
-    "seen": 1793907069.6412039,
+    "mtime": 1793906986.5666602,
+    "seen": 1794270884.4903355,
     "ast_hash": "5e9286220427bd5b92e9a3ad25d05f45",
     "semantic_hash": ""
   },
   "designs/2026-11/mean-time-between-coffees.png": {
-    "mtime": 1793906984.8755543,
-    "seen": 1793907069.6412048,
+    "mtime": 1793906986.57066,
+    "seen": 1794270884.4903367,
     "ast_hash": "bdabed0bc062d6c3353d9c62463ed406",
     "semantic_hash": ""
   },
   "designs/2026-11/snowman-building-committee-sweatshirt.png": {
-    "mtime": 1793906984.8875542,
-    "seen": 1793907069.6412106,
+    "mtime": 1793906986.5786602,
+    "seen": 1794270884.490346,
     "ast_hash": "4ab921df7eb307cffe581a1f12c2fb4f",
     "semantic_hash": ""
   },
   "designs/2026-11/snug-as-a-fox-stocking.png": {
-    "mtime": 1793906984.8915544,
-    "seen": 1793907069.6412115,
+    "mtime": 1793906986.5826602,
+    "seen": 1794270884.4903471,
     "ast_hash": "abb49b25c96b72970e619b3f8b12cdde",
     "semantic_hash": ""
   },
   "designs/2026-11/tamales-y-abrazos-pillow.png": {
-    "mtime": 1793906984.9035542,
-    "seen": 1793907069.6412125,
+    "mtime": 1793906986.59066,
+    "seen": 1794270884.4903486,
     "ast_hash": "501abcc0d53348c62c4bc7703e667935",
     "semantic_hash": ""
   },
   "designs/2026-11/twinkle-light-technician-sticker.png": {
-    "mtime": 1793906984.9235542,
-    "seen": 1793907069.6412158,
+    "mtime": 1793906986.6026602,
+    "seen": 1794270884.4903524,
     "ast_hash": "712da8231c3d2789f77b50a08179336b",
     "semantic_hash": ""
   },
   "designs/2026-11/v2/diya-lotus-rangoli-tshirt.png": {
-    "mtime": 1793906984.9435542,
-    "seen": 1793907069.6412177,
+    "mtime": 1793906986.6186602,
+    "seen": 1794270884.4903548,
     "ast_hash": "b218a03eb41ad96804c5518c6d20c41f",
     "semantic_hash": ""
   },
   "designs/2026-11/v2/mean-time-between-coffees-v2.png": {
-    "mtime": 1793906984.9515543,
-    "seen": 1793907069.6412187,
+    "mtime": 1793906986.6226602,
+    "seen": 1794270884.4903562,
     "ast_hash": "1b95c17d4a867c9dbaef94e0d141e888",
     "semantic_hash": ""
   },
   "designs/2026-11/v2/mug-hibernating-with-a-book-v3.png": {
-    "mtime": 1793906984.9515543,
-    "seen": 1793907069.6412196,
+    "mtime": 1793906986.6226602,
+    "seen": 1794270884.4903579,
     "ast_hash": "4e9ee9858377af55f0d06721b8777df0",
     "semantic_hash": ""
   },
   "designs/2026-11/v2/ornament-christmas-2026-mushrooms-v2.png": {
-    "mtime": 1793906984.9555542,
-    "seen": 1793907069.641239,
+    "mtime": 1793906986.62666,
+    "seen": 1794270884.4903593,
     "ast_hash": "9b33835218d77ed5f7f796db5039a5ef",
     "semantic_hash": ""
   },
   "designs/2026-11/v2/poster-orion-winter-hunter-v2.png": {
-    "mtime": 1793906984.9715543,
-    "seen": 1793907069.6412413,
+    "mtime": 1793906986.6386602,
+    "seen": 1794270884.4903603,
     "ast_hash": "236b786e81a942db323ae1ec7ed31a16",
     "semantic_hash": ""
   },
   "designs/2026-11/v2/saw-that-failure-coming-v2.png": {
-    "mtime": 1793906984.9835544,
-    "seen": 1793907069.641243,
+    "mtime": 1793906986.6466603,
+    "seen": 1794270884.4903617,
     "ast_hash": "882259ee46b39f061cd328d03a469d42",
     "semantic_hash": ""
   },
   "designs/2026-11/v2/snowman-building-committee-sweatshirt.png": {
-    "mtime": 1793906984.9955542,
-    "seen": 1793907069.6412442,
+    "mtime": 1793906986.6506603,
+    "seen": 1794270884.4903626,
     "ast_hash": "40a83d373b3d6bc65bf13d081570f072",
     "semantic_hash": ""
   },
   "designs/2026-11/v2/twinkle-light-technician-sticker.png": {
-    "mtime": 1793906984.9995542,
-    "seen": 1793907069.6412454,
+    "mtime": 1793906986.6546602,
+    "seen": 1794270884.4903638,
     "ast_hash": "79ddc428facae1621802241aaf38ea2e",
     "semantic_hash": ""
   },
   "pins/2026-11/blanket-pin.jpg": {
-    "mtime": 1793906985.0042615,
-    "seen": 1793907069.6412466,
+    "mtime": 1793906986.66002,
+    "seen": 1794270884.490365,
     "ast_hash": "97b0b07698fc617218ee9b559d461e3c",
     "semantic_hash": ""
   },
   "pins/2026-11/diya-pin.jpg": {
-    "mtime": 1793906985.0051014,
-    "seen": 1793907069.641248,
+    "mtime": 1793906986.66058,
+    "seen": 1794270884.490366,
     "ast_hash": "7cd1d598d5e610975c4ec2a171a4986e",
     "semantic_hash": ""
   },
   "pins/2026-11/failure-pin.jpg": {
-    "mtime": 1793906985.0051014,
-    "seen": 1793907069.641249,
+    "mtime": 1793906986.66058,
+    "seen": 1794270884.490367,
     "ast_hash": "bb81e027a270103272388a194b7174cf",
     "semantic_hash": ""
   },
   "pins/2026-11/mtbc-pin.jpg": {
-    "mtime": 1793906985.0051014,
-    "seen": 1793907069.64125,
+    "mtime": 1793906986.66058,
+    "seen": 1794270884.4903684,
     "ast_hash": "74497c26fa784863fae06f42042c2156",
     "semantic_hash": ""
   },
   "pins/2026-11/mug-pin.jpg": {
-    "mtime": 1793906985.0051014,
-    "seen": 1793907069.641251,
+    "mtime": 1793906986.66058,
+    "seen": 1794270884.4903693,
     "ast_hash": "6bdb3b15e59f65445fe1fa6cd7d4ac12",
     "semantic_hash": ""
   },
   "pins/2026-11/ornament-pin.jpg": {
-    "mtime": 1793906985.0051014,
-    "seen": 1793907069.6412525,
+    "mtime": 1793906986.66058,
+    "seen": 1794270884.4903703,
     "ast_hash": "620ecc50112febd2172db97d6773788d",
     "semantic_hash": ""
   },
   "pins/2026-11/pillow-pin.jpg": {
-    "mtime": 1793906985.0075543,
-    "seen": 1793907069.6412537,
+    "mtime": 1793906986.66058,
+    "seen": 1794270884.4903715,
     "ast_hash": "7f8ae36f2de1537ae3227ccfbff471d3",
     "semantic_hash": ""
   },
   "pins/2026-11/poster-pin.jpg": {
-    "mtime": 1793906985.0075543,
-    "seen": 1793907069.6412547,
+    "mtime": 1793906986.6626601,
+    "seen": 1794270884.4903727,
     "ast_hash": "c53023ebfcd4c27a56ac944350ca4b27",
     "semantic_hash": ""
   },
   "pins/2026-11/snowman-pin.jpg": {
-    "mtime": 1793906985.0075543,
-    "seen": 1793907069.6412556,
+    "mtime": 1793906986.6626601,
+    "seen": 1794270884.490374,
     "ast_hash": "d18acbf30c4b9aba6571203b75b97390",
     "semantic_hash": ""
   },
   "pins/2026-11/sticker-pin.jpg": {
-    "mtime": 1793906985.0115542,
-    "seen": 1793907069.641257,
+    "mtime": 1793906986.6626601,
+    "seen": 1794270884.4903753,
     "ast_hash": "e9842b2ad1807e009ca5f91c84d2ca10",
     "semantic_hash": ""
   },
   "sources/d_tree_farm_poster.py": {
-    "mtime": 1793906985.0155268,
-    "seen": 1793907069.6411912,
+    "mtime": 1793906986.667773,
+    "seen": 1794270884.4903176,
     "ast_hash": "9badb4cb634bd311cc3f3cc4fc4fba7f",
     "semantic_hash": ""
   },
   "sources/d_under_this_roof_ornament.py": {
-    "mtime": 1793906985.0155268,
-    "seen": 1793907069.6411924,
+    "mtime": 1793906986.667773,
+    "seen": 1794270884.490319,
     "ast_hash": "ca3e3c48e5f7f4bad3613c69abfc9a1d",
     "semantic_hash": ""
   },
   "designs/2026-11/tree-farm-poster.png": {
-    "mtime": 1793906984.9195542,
-    "seen": 1793907069.641215,
+    "mtime": 1793906986.6026602,
+    "seen": 1794270884.490351,
     "ast_hash": "e52cba11c1a7c72e39faa5ced2917a88",
     "semantic_hash": ""
   },
   "designs/2026-11/under-this-roof-ornament.png": {
-    "mtime": 1793906984.9275544,
-    "seen": 1793907069.6412168,
+    "mtime": 1793906986.6066601,
+    "seen": 1794270884.4903536,
     "ast_hash": "ba23369505beb5cceb5bc08caeb2999a",
     "semantic_hash": ""
   },
   "sources/d_snow_zoomies_sweatshirt.py": {
-    "mtime": 1793906985.0155268,
-    "seen": 1793907069.6411867,
+    "mtime": 1793906986.667773,
+    "seen": 1794270884.4903111,
     "ast_hash": "20cbea8661322170c0de26f4fb5a0e5c",
     "semantic_hash": ""
   },
   "designs/2026-11/snow-zoomies-sweatshirt-light.png": {
-    "mtime": 1793906984.8795543,
-    "seen": 1793907069.6412086,
+    "mtime": 1793906986.5746603,
+    "seen": 1794270884.490343,
     "ast_hash": "1b563a155b6e16aa0394b7981ebc84ee",
     "semantic_hash": ""
   },
   "designs/2026-11/snow-zoomies-sweatshirt.png": {
-    "mtime": 1793906984.8795543,
-    "seen": 1793907069.6412096,
+    "mtime": 1793906986.5746603,
+    "seen": 1794270884.4903448,
     "ast_hash": "de506d44db2f982a660a89a71373d2b0",
     "semantic_hash": ""
   },
   "sources/d_newly-wed-newly-merry-ornament.py": {
-    "mtime": 1793907063.4141238,
-    "seen": 1793907069.6411784,
+    "mtime": 1794270594.4523833,
+    "seen": 1794270884.4902983,
     "ast_hash": "4b6123308fb83035fe579529bf8979b7",
     "semantic_hash": ""
   },
   "sources/d_om-sun-mandala-tshirt.py": {
-    "mtime": 1793907063.418382,
-    "seen": 1793907069.6411793,
+    "mtime": 1794270594.4523833,
+    "seen": 1794270884.4903002,
     "ast_hash": "eb1727a446b236d7e75440c8f190d338",
     "semantic_hash": ""
   },
   "sources/d_sleigh-passed-inspection-mug.py": {
-    "mtime": 1793907063.4212499,
-    "seen": 1793907069.6411853,
+    "mtime": 1794270594.4523833,
+    "seen": 1794270884.4903095,
     "ast_hash": "39e1e18f426c4adb40937bd2d1ef6d82",
     "semantic_hash": ""
   },
   "sources/d_tree-climbing-season-pillow.py": {
-    "mtime": 1793907063.4240985,
-    "seen": 1793907069.64119,
+    "mtime": 1794270594.4523833,
+    "seen": 1794270884.4903154,
     "ast_hash": "01342d74a2db6c4c56f8444d8216b595",
     "semantic_hash": ""
   },
   "designs/2026-11/newly-wed-newly-merry-ornament.png": {
-    "mtime": 1793907063.4126248,
-    "seen": 1793907069.6412055,
+    "mtime": 1794270594.4363832,
+    "seen": 1794270884.490338,
     "ast_hash": "5027a4ce1e5d03e2c118a23c98e490d1",
     "semantic_hash": ""
   },
   "designs/2026-11/om-sun-mandala-tshirt.png": {
-    "mtime": 1793907063.415426,
-    "seen": 1793907069.6412065,
+    "mtime": 1794270594.4483833,
+    "seen": 1794270884.490339,
     "ast_hash": "ab46aa25a4ee3791922695ea4f46225e",
     "semantic_hash": ""
   },
   "designs/2026-11/sleigh-passed-inspection-mug.png": {
-    "mtime": 1793907063.4197745,
-    "seen": 1793907069.6412075,
+    "mtime": 1794270594.4523833,
+    "seen": 1794270884.4903417,
     "ast_hash": "f63328a858743db1460ee4b236253565",
     "semantic_hash": ""
   },
   "designs/2026-11/tree-climbing-season-pillow.png": {
-    "mtime": 1793907063.4225497,
-    "seen": 1793907069.6412132,
+    "mtime": 1794270594.4523833,
+    "seen": 1794270884.4903495,
     "ast_hash": "45aad76e6a121ba240b7e49338171606",
+    "semantic_hash": ""
+  },
+  "sources/d_aqui-van-los-regalitos-stocking.py": {
+    "mtime": 1794270663.5447006,
+    "seen": 1794270884.4902802,
+    "ast_hash": "a3778b0979bb49ac8bd52addbde0ee8e",
+    "semantic_hash": ""
+  },
+  "sources/d_scarlet-snowline-poster.py": {
+    "mtime": 1794270663.5487413,
+    "seen": 1794270884.4903073,
+    "ast_hash": "8e47e42cfd5072398d181c641f328602",
+    "semantic_hash": ""
+  },
+  "designs/2026-11/aqui-van-los-regalitos-stocking.png": {
+    "mtime": 1794270663.5432136,
+    "seen": 1794270884.4903257,
+    "ast_hash": "62517d16c83f519b560e07eb7fb55825",
+    "semantic_hash": ""
+  },
+  "designs/2026-11/scarlet-snowline-poster.png": {
+    "mtime": 1794270663.545929,
+    "seen": 1794270884.4903402,
+    "ast_hash": "329824167cca3ac3849d244ad16da40f",
     "semantic_hash": ""
   }
 }

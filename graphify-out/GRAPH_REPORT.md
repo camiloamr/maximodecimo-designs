@@ -1,21 +1,22 @@
-# Graph Report - maximodecimo-designs  (2026-11-05)
+# Graph Report - maximodecimo-designs  (2026-11-10)
 
 ## Corpus Check
-- 24 files · ~16,461 words
+- 26 files · ~17,917 words
 - Verdict: corpus is large enough that graph structure adds value.
 - Unclassified: 1 file(s) not represented in the graph (top: (none) 1)
 
 ## Summary
-- 118 nodes · 332 edges · 7 communities (5 shown, 2 thin omitted)
+- 127 nodes · 363 edges · 8 communities (4 shown, 4 thin omitted)
 - Extraction: 99% EXTRACTED · 1% INFERRED · 0% AMBIGUOUS · INFERRED: 4 edges (avg confidence: 0.85)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `a1ad5c23`
+- Built from commit: `24e5fee3`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
 ## Community Hubs (Navigation)
+- d_tree_farm_poster.py
 - lib.py
 - render
 - mockups.py
@@ -24,65 +25,61 @@
 - README.md
 
 ## God Nodes (most connected - your core abstractions)
-1. `fit_size()` - 17 edges
-2. `text()` - 16 edges
-3. `render()` - 16 edges
+1. `fit_size()` - 19 edges
+2. `render()` - 18 edges
+3. `text()` - 17 edges
 4. `svg()` - 15 edges
-5. `b64()` - 11 edges
-6. `star_path()` - 10 edges
-7. `arched()` - 9 edges
-8. `doc()` - 9 edges
-9. `esc()` - 8 edges
-10. `font()` - 8 edges
+5. `star_path()` - 11 edges
+6. `b64()` - 11 edges
+7. `esc()` - 10 edges
+8. `font()` - 10 edges
+9. `arched()` - 9 edges
+10. `doc()` - 9 edges
 
 ## Surprising Connections (you probably didn't know these)
 - `mtbc()` --calls--> `render()`  [INFERRED]
   sources/d_engineers.py → sources/lib.py
 - `saw_failure()` --calls--> `render()`  [INFERRED]
   sources/d_engineers.py → sources/lib.py
-- `face()` --calls--> `fit_size()`  [EXTRACTED]
-  sources/d_tree-climbing-season-pillow.py → sources/lib.py
-- `mtbc()` --calls--> `svg()`  [EXTRACTED]
+- `bubbly_line()` --calls--> `fit_size()`  [EXTRACTED]
+  sources/d_cookie_mug.py → sources/lib.py
+- `mtbc()` --calls--> `arched()`  [EXTRACTED]
   sources/d_engineers.py → sources/lib.py
-- `mtbc()` --calls--> `text()`  [EXTRACTED]
-  sources/d_engineers.py → sources/lib.py
+- `multicolor()` --calls--> `esc()`  [INFERRED]
+  sources/d_mug.py → sources/lib.py
 
 ## Import Cycles
 - None detected.
 
-## Communities (7 total, 2 thin omitted)
+## Communities (8 total, 4 thin omitted)
 
 ### Community 1 - "lib.py"
-Cohesion: 0.18
-Nodes (10): bubbly_line(), mtbc(), saw_failure(), multicolor(), word(), arched(), esc(), fit_size() (+2 more)
-
-### Community 3 - "render"
-Cohesion: 0.19
-Nodes (5): build(), dog(), render(), snowflake(), svg()
+Cohesion: 0.16
+Nodes (8): bubbly_word(), bubbly_line(), multicolor(), word(), arched(), esc(), font(), text_width()
 
 ### Community 4 - "mockups.py"
 Cohesion: 0.20
 Nodes (19): b64(), blanket(), card(), doc(), esc(), garment(), gift_box(), mug() (+11 more)
 
 ### Community 7 - "math"
-Cohesion: 0.11
-Nodes (4): marigold(), P(), petal_ring(), hill()
+Cohesion: 0.16
+Nodes (3): marigold(), P(), petal_ring()
 
 ### Community 12 - "text"
-Cohesion: 0.24
-Nodes (7): pine(), snow(), square(), face(), tier(), star_path(), text()
+Cohesion: 0.17
+Nodes (13): mtbc(), saw_failure(), pine(), snow(), square(), build(), dog(), face() (+5 more)
 
 ## Knowledge Gaps
-- **2 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **4 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `fit_size()` connect `lib.py` to `render`, `text`, `math`?**
-  _High betweenness centrality (0.025) - this node is a cross-community bridge._
-- **Should `math` be split into smaller, more focused modules?**
-  _Cohesion score 0.10541310541310542 - nodes in this community are weakly interconnected._
-- **Why does `arched()` connect `lib.py` to `render`, `text`, `math`?**
+- **Why does `fit_size()` connect `text` to `d_tree_farm_poster.py`, `lib.py`, `render`?**
+  _High betweenness centrality (0.029) - this node is a cross-community bridge._
+- **Are the 2 inferred relationships involving `render()` (e.g. with `mtbc()` and `saw_failure()`) actually correct?**
+  _`render()` has 2 INFERRED edges - model-reasoned connections that need verification._
+- **Why does `text()` connect `text` to `d_tree_farm_poster.py`, `lib.py`, `render`?**
   _High betweenness centrality (0.023) - this node is a cross-community bridge._
-- **Why does `text()` connect `text` to `lib.py`, `render`, `math`?**
+- **Why does `arched()` connect `lib.py` to `render`, `text`, `math`?**
   _High betweenness centrality (0.021) - this node is a cross-community bridge._
