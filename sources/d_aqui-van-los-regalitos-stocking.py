@@ -83,3 +83,4 @@ svg = (f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBo
 out = sys.argv[1] if len(sys.argv) > 1 else "aqui-van-los-regalitos-stocking.png"
 render(svg, out, W, H)
 print(out, y1, y2, y3, gy)
+
