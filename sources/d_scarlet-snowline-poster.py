@@ -134,3 +134,4 @@ svg = (f'<svg xmlns="http://www.w3.org/2000/svg" width="5400" height="7200" view
 out = sys.argv[1] if len(sys.argv) > 1 else "scarlet-snowline-poster.png"
 render(svg, out, 5400, 7200)
 print(out)
+

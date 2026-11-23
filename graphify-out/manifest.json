@@ -372,26 +372,26 @@
     "semantic_hash": ""
   },
   "sources/d_aqui-van-los-regalitos-stocking.py": {
-    "mtime": 1795048227.9534595,
-    "seen": 1795048233.4951115,
-    "ast_hash": "a3778b0979bb49ac8bd52addbde0ee8e",
+    "mtime": 1795440741.9211278,
+    "seen": 1795440751.2171698,
+    "ast_hash": "ce4c63f0d2df27b21ca6f0931a049685",
     "semantic_hash": ""
   },
   "sources/d_scarlet-snowline-poster.py": {
-    "mtime": 1795048227.960232,
-    "seen": 1795048233.4951334,
-    "ast_hash": "8e47e42cfd5072398d181c641f328602",
+    "mtime": 1795440741.9282458,
+    "seen": 1795440751.2171924,
+    "ast_hash": "b2b1badfb8cb4b44a075b938f94524cc",
     "semantic_hash": ""
   },
   "designs/2026-11/aqui-van-los-regalitos-stocking.png": {
-    "mtime": 1795048227.9514642,
-    "seen": 1795048233.4951468,
+    "mtime": 1795440741.91814,
+    "seen": 1795440751.217208,
     "ast_hash": "62517d16c83f519b560e07eb7fb55825",
     "semantic_hash": ""
   },
   "designs/2026-11/scarlet-snowline-poster.png": {
-    "mtime": 1795048227.9559216,
-    "seen": 1795048233.4951575,
+    "mtime": 1795440741.9242456,
+    "seen": 1795440751.2172198,
     "ast_hash": "329824167cca3ac3849d244ad16da40f",
     "semantic_hash": ""
   }
